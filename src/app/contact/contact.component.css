@@ -1,0 +1,19 @@
+h2{
+    color: red;
+    text-align: right
+}
+.our{
+    text-align: center;
+    color: red;
+    font-style: italic
+}
+
+h3{
+    text-align: right;
+    color:green;
+}
+h1{
+    text-align: center;
+    color: green;
+    font-style: italic 
+}
